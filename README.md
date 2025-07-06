@@ -9,7 +9,7 @@ This repository indexes all of my classification-based machine learning projects
 ### 1. 🚢 Titanic Survival Prediction
 Predict whether passengers survived based on features like age, gender, class, and ticket fare using classification models.
 
-🔗 [Titanic Classifier Repo]((https://github.com/GaneshTodkari/titanic-survival)])
+🔗 [Titanic Classifier Repo]((https://github.com/GaneshTodkari/titanic-survival))
 
 ---
 
