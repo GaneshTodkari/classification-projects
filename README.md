@@ -16,4 +16,4 @@ Predict whether passengers survived based on features like age, gender, class, a
 ### 2. ❤️ Heart Disease Prediction
 Predict the presence of heart disease using health indicators such as cholesterol, blood pressure, and chest pain type.
 
-🔗 [Heart Disease Repo](https://github.com/yourusername/heart-disease-classifier)
+🔗 [Heart Disease Repo](https://github.com/GaneshTodkari/heart-disease-classifier)
